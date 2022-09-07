@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_Csharp5_Dungna29", "NET105_Tutorial_Csharp5_Dungna29\NET105_Tutorial_Csharp5_Dungna29.csproj", "{0DDFD95A-8C2D-4995-BB73-1F5A702CC629}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FPT_POLY_CHSARP5.Data", "FPT_POLY_CHSARP5.Data\FPT_POLY_CHSARP5.Data.csproj", "{C790742C-5D76-492E-A46B-9D92177BCFEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FPT_POLY_CHSARP5.WebApp", "FPT_POLY_CHSARP5.WebApp\FPT_POLY_CHSARP5.WebApp.csproj", "{765603FD-3ACC-4779-835A-97EC20E5D774}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_Data_Validation", "NET105_Tutorial_Data_Validation\NET105_Tutorial_Data_Validation.csproj", "{9A531926-3C01-4D0A-9811-7E858048AF83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_DI_DepedencyInjection", "NET105_Tutorial_DI_DepedencyInjection\NET105_Tutorial_DI_DepedencyInjection.csproj", "{9F2249AF-D9E2-4055-86F7-2D3995936B9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_DI_DepedencyInjection.Services", "NET105_Tutorial_DI_DepedencyInjection.Services\NET105_Tutorial_DI_DepedencyInjection.Services.csproj", "{E9CCB938-F917-4BEB-BBFE-6C42BF01E2FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_DI_DepedencyInjection_Lifetime", "NET105_Tutorial_DI_DepedencyInjection_Lifetime\NET105_Tutorial_DI_DepedencyInjection_Lifetime.csproj", "{67BD3253-DABD-4F3D-865C-D8FF3AC085B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_Identity", "NET105_Tutorial_Identity\NET105_Tutorial_Identity.csproj", "{50EAD7EB-6242-404A-8C8B-601398148C4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_Identity2", "NET105_Tutorial_Identity2\NET105_Tutorial_Identity2.csproj", "{13FB753F-3EFF-4B39-8239-D839260C9F5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET105_Tutorial_WebApi", "NET105_Tutorial_WebApi\NET105_Tutorial_WebApi.csproj", "{15BED705-3579-4083-A0D8-31D9EFD00CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDFD95A-8C2D-4995-BB73-1F5A702CC629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDFD95A-8C2D-4995-BB73-1F5A702CC629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDFD95A-8C2D-4995-BB73-1F5A702CC629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDFD95A-8C2D-4995-BB73-1F5A702CC629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C790742C-5D76-492E-A46B-9D92177BCFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C790742C-5D76-492E-A46B-9D92177BCFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C790742C-5D76-492E-A46B-9D92177BCFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C790742C-5D76-492E-A46B-9D92177BCFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765603FD-3ACC-4779-835A-97EC20E5D774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765603FD-3ACC-4779-835A-97EC20E5D774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765603FD-3ACC-4779-835A-97EC20E5D774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765603FD-3ACC-4779-835A-97EC20E5D774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A531926-3C01-4D0A-9811-7E858048AF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A531926-3C01-4D0A-9811-7E858048AF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A531926-3C01-4D0A-9811-7E858048AF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A531926-3C01-4D0A-9811-7E858048AF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2249AF-D9E2-4055-86F7-2D3995936B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2249AF-D9E2-4055-86F7-2D3995936B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2249AF-D9E2-4055-86F7-2D3995936B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2249AF-D9E2-4055-86F7-2D3995936B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CCB938-F917-4BEB-BBFE-6C42BF01E2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CCB938-F917-4BEB-BBFE-6C42BF01E2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CCB938-F917-4BEB-BBFE-6C42BF01E2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CCB938-F917-4BEB-BBFE-6C42BF01E2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BD3253-DABD-4F3D-865C-D8FF3AC085B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BD3253-DABD-4F3D-865C-D8FF3AC085B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BD3253-DABD-4F3D-865C-D8FF3AC085B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BD3253-DABD-4F3D-865C-D8FF3AC085B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EAD7EB-6242-404A-8C8B-601398148C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EAD7EB-6242-404A-8C8B-601398148C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EAD7EB-6242-404A-8C8B-601398148C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EAD7EB-6242-404A-8C8B-601398148C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FB753F-3EFF-4B39-8239-D839260C9F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FB753F-3EFF-4B39-8239-D839260C9F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FB753F-3EFF-4B39-8239-D839260C9F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FB753F-3EFF-4B39-8239-D839260C9F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BED705-3579-4083-A0D8-31D9EFD00CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BED705-3579-4083-A0D8-31D9EFD00CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BED705-3579-4083-A0D8-31D9EFD00CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BED705-3579-4083-A0D8-31D9EFD00CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E295D3-299E-4931-81B5-7253EE07DD4D}
+	EndGlobalSection
+EndGlobal
